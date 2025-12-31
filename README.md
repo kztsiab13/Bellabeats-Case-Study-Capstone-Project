@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 - Tableau
 
 ## Notes
-This project was completed as a group case study and is intended for educational and portfolio purposes.
+This project was completed as a group case study and is intended for educational and portfolio purposes. My primary responsibility: Daily activity data cleaning, analysis, and interpretation.
 
 ## Author
 Katherine Thao & Group Members
