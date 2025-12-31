@@ -13,7 +13,8 @@ How can consumer smart device data reveal new opportunities for Bellabeat’s gr
 ## Repository Contents
 - `README.md` — This file
 - `raw dataset` — Original raw datasets
-- `processed dataset & tables` — Cleaned and merged datasets used in analysis & Final summary tables used for analysis
+- `processed dataset` — Cleaned and merged datasets used in analysis
+- `tables` — Final summary tables used for analysis
 - `figures` — Visualizations created from the analysis
 - `documents` — Presentation with full methods, findings, and recommendations
 
