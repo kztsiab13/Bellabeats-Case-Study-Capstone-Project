@@ -14,7 +14,7 @@ How can consumer smart device data reveal new opportunities for Bellabeat’s gr
 - `README.md` — This file
 - `raw dataset` — Original raw datasets
 - `processed dataset` — Cleaned and merged datasets used in analysis
-- `script` — Change log for data cleaning, manipulation, and analysis
+- `CHANGELOG.md` — Change log for data cleaning, manipulation, and analysis
 - `tables` — Final summary tables used for analysis
 - `figures` — Visualizations created from the analysis
 - `documents` — Presentation with full methods, findings, and recommendations
