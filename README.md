@@ -28,4 +28,4 @@ This project was completed as a group case study and is intended for educational
 
 ## Author
 Katherine Thao & Group Members
-Data Analysis | Portfolio: https://katherinethao-projects.my.canva.site/portfolio
+| Data Analysis | Portfolio: https://katherinethao-projects.my.canva.site/portfolio
