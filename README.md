@@ -1,0 +1,31 @@
+# Bellabeat Case Study: Smart Device Usage Analysis
+
+## Overview
+This case study analyzes smart device usage data to identify trends in bellabeat consumer usage of products. The goal is to generate insights and recommendations to support Bellabeat’s marketing and user engagement strategy.
+
+## Business Task
+How can consumer smart device data reveal new opportunities for Bellabeat’s growth?
+
+## Data Source
+- FitBit Fitness Tracker Data (Kaggle)
+- Timeframe: March 12, 2016 – May 12, 2016  
+- Approximately 35 users  
+https://www.kaggle.com/datasets/arashnic/fitbit
+
+## Repository Contents
+- `src/` — Analysis scripts
+- `tables/` — Final summary tables used for analysis
+- `figures/` — Visualizations created from the analysis
+- `docs/final_presentation/` — Presentation with full methods, findings, and recommendations
+
+## Tools Used
+- Google Sheets
+- SQL
+- Tableau
+
+## Notes
+This project was completed as a group case study and is intended for educational and portfolio purposes.
+
+## Author
+Katherine Thao & Group Members
+Data Analysis | Portfolio: https://katherinethao-projects.my.canva.site/portfolio
