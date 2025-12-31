@@ -24,7 +24,7 @@ How can consumer smart device data reveal new opportunities for Bellabeat’s gr
 - Tableau
 
 ## Notes
-This project was completed as a group case study and is intended for educational and portfolio purposes. My primary responsibility: Daily activity data cleaning, analysis, and interpretation.
+This project was completed as a group case study and is intended for educational and portfolio purposes. My primary responsibilities include daily activity data cleaning, analysis, and interpretation.
 
 ## Author
 Katherine Thao & Group Members
