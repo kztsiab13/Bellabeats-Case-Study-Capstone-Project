@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 ## Repository Contents
 - `README.md` — This file
 - `raw dataset` — Original raw datasets
-- `processed dataset and tables` — Cleaned and merged datasets used in analysis & Final summary tables used for analysis
+- `processed dataset & tables` — Cleaned and merged datasets used in analysis & Final summary tables used for analysis
 - `figures` — Visualizations created from the analysis
 - `documents` — Presentation with full methods, findings, and recommendations
 
