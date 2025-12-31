@@ -7,10 +7,8 @@ This case study analyzes smart device usage data to identify trends in bellabeat
 How can consumer smart device data reveal new opportunities for Bellabeat’s growth?
 
 ## Data Source
-- FitBit Fitness Tracker Data (Kaggle)
-- Timeframe: March 12, 2016 – May 12, 2016  
-- Approximately 35 users  
-https://www.kaggle.com/datasets/arashnic/fitbit
+- FitBit Fitness Tracker Data (Kaggle at https://www.kaggle.com/datasets/arashnic/fitbit)
+- Timeframe: March 12, 2016 – May 12, 2016   
 
 ## Repository Contents
 - `README.md` — This file
